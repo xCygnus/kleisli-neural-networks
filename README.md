@@ -2,13 +2,13 @@
 
 > **Redes neuronales como morfismos de Kleisli: una implementación categórica con DisCoPy.**
 >
-> Código de acompañamiento de la tesis de licenciatura en Matemáticas
-> *"[Título de la tesis]"*, Sebastián [Apellido], 2026.
+> Código de acompañamiento de la tesis de pregrado en Matemáticas
+> *"Categorías de Kleisli y aplicaciones"*, Sebastián Zapata Álzate, 2026.
 
 Este repositorio contiene la implementación de referencia de la tesis.
 Su propósito es permitir a cualquier lector **verificar
 computacionalmente** que las construcciones categóricas del texto —mónada
-de estado, $\mathbf{Para}(\mathcal{C})$, lentes como adjunción, evaluación
+de estado, $\mathbf{Para}(\mathcal{C})$, lentes , evaluación
 funtorial vía DisCoPy— se traducen en código ejecutable cuyo entrenamiento
 de una red neuronal es una consecuencia de la composición categórica, no
 de un grafo imperativo de operaciones.
